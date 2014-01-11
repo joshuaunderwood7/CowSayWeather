@@ -8,6 +8,8 @@ I got lonely, so I invited my cow friend to talk to me when I log in.
 
 you can too.
 
++ install `cowsay` and `fortune`
+    - On Ubuntu (Debian) run `sudo apt-get install cowsay fortune`
 + put weather.py in your `~/bin/`
 + add the following to your `.bashrc`
     - `python ~/bin/weather.py [STATION CODE] [Your Name]`
